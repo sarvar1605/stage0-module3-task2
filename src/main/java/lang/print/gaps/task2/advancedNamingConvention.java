@@ -1,4 +1,4 @@
-public class advancedNamingConvention {
+public class AdvancedNamingConvention {
     private static final int adult_age = 18;
 
     private int age;
