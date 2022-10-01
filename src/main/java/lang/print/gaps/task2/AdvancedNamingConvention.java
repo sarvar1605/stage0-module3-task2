@@ -1,5 +1,5 @@
 public class AdvancedNamingConvention {
-    private static final int adult_age = 18;
+    private static final int ADULT_AGE = 18;
 
     private int age;
     private int phoneNumber;
